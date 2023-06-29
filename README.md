@@ -22,10 +22,10 @@ response to the appearance of any obstructions and proved, in all tests performe
 able to avoid them. 
 
 The complete report of this project is available at: https://repositorio.ucs.br/11338/8764
-Performance tests and prototype demonstrations can be found at: https://youtu.be/-xJN1b3Md4E
+<br>Performance tests and prototype demonstrations can be found at: https://youtu.be/-xJN1b3Md4E
 
 Obs. Some of the codes in this repository are registered with the Brazilian National Institute of Industrial Property - INPI. 
-Therefore, they should only be used for reference or academic purposes.
+<br> Therefore, they should only be used for reference or academic purposes.
 
 Developed by Gabriel Romio
 
@@ -53,10 +53,10 @@ surgimento  de quaisquer obstruções  e  se mostrou,  em  todos  os  testes  re
 capaz de evitá-las.
 
 O relatório completo deste projeto está disponível em: https://repositorio.ucs.br/11338/8764
-Os testes de desempenho e demonstração do protótipo podem ser conferidos em: https://youtu.be/-xJN1b3Md4E
+<br>Os testes de desempenho e demonstração do protótipo podem ser conferidos em: https://youtu.be/-xJN1b3Md4E
 
 Obs. Alguns dos códigos presentes nesse repositório estão registrados no Instituto Nacional da Propriedade Industrial - INPI.
-Assim, devem ser usados apenas para consultas ou fins acadêmicos.
+<br>Assim, devem ser usados apenas para consultas ou fins acadêmicos.
 
 Desenvolvido por Gabriel Romio
 
